@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+.expo/
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.packages
+flutter_app/android/local.properties
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/Flutter/flutter_export_environment.sh
+
+# Temporary files
+flutter_app_temp/
+*.backup
+.DS_Store
+.idea/
+*.iml

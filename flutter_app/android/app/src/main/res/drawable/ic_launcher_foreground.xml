@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#B5FA0A"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+    <!-- Dollar sign -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M56.5,35.5c0,-2.5 -2,-4.5 -4.5,-4.5h-1c-2.5,0 -4.5,2 -4.5,4.5v0.5c0,2.5 2,4.5 4.5,4.5h2c2.5,0 4.5,2 4.5,4.5v0.5c0,2.5 -2,4.5 -4.5,4.5h-1c-2.5,0 -4.5,-2 -4.5,-4.5"
+        android:strokeWidth="3"
+        android:strokeColor="#08080E"/>
+    <path
+        android:fillColor="#08080E"
+        android:pathData="M54,28v2"
+        android:strokeWidth="3"
+        android:strokeColor="#08080E"/>
+    <path
+        android:fillColor="#08080E"
+        android:pathData="M54,50v2"
+        android:strokeWidth="3"
+        android:strokeColor="#08080E"/>
+    <!-- Upward trend arrow -->
+    <path
+        android:pathData="M38,68L48,58L54,64L70,48"
+        android:strokeWidth="3"
+        android:strokeColor="#08080E"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M62,48L70,48L70,56"
+        android:strokeWidth="3"
+        android:strokeColor="#08080E"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>
